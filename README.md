@@ -9,3 +9,5 @@ and yet, I'm figuring to make a new one..
 like.. 
 
 first, i will use outsourcing tools such as..
+
+lovable, floo, etc..
